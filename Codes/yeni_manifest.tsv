@@ -1,0 +1,111 @@
+results/T__generated_500_494_1__t0.10	mats/generated_500_494_1.mtx md_light 3000 120 42 results/T__generated_500_494_1__t0.10 --tassa adaptive --esik 0.10
+results/T__generated_500_494_1__t0.20	mats/generated_500_494_1.mtx md_light 3000 120 42 results/T__generated_500_494_1__t0.20 --tassa adaptive --esik 0.20
+results/T__generated_500_494_1__t0.30	mats/generated_500_494_1.mtx md_light 3000 120 42 results/T__generated_500_494_1__t0.30 --tassa adaptive --esik 0.30
+results/T__generated_500_494_1__t0.50	mats/generated_500_494_1.mtx md_light 3000 120 42 results/T__generated_500_494_1__t0.50 --tassa adaptive --esik 0.50
+results/T__generated_500_494_1__t0.80	mats/generated_500_494_1.mtx md_light 3000 120 42 results/T__generated_500_494_1__t0.80 --tassa adaptive --esik 0.80
+results/T__generated_1000_995_5__t0.10	mats/generated_1000_995_5.mtx md_light 3000 120 42 results/T__generated_1000_995_5__t0.10 --tassa adaptive --esik 0.10
+results/T__generated_1000_995_5__t0.20	mats/generated_1000_995_5.mtx md_light 3000 120 42 results/T__generated_1000_995_5__t0.20 --tassa adaptive --esik 0.20
+results/T__generated_1000_995_5__t0.30	mats/generated_1000_995_5.mtx md_light 3000 120 42 results/T__generated_1000_995_5__t0.30 --tassa adaptive --esik 0.30
+results/T__generated_1000_995_5__t0.50	mats/generated_1000_995_5.mtx md_light 3000 120 42 results/T__generated_1000_995_5__t0.50 --tassa adaptive --esik 0.50
+results/T__generated_1000_995_5__t0.80	mats/generated_1000_995_5.mtx md_light 3000 120 42 results/T__generated_1000_995_5__t0.80 --tassa adaptive --esik 0.80
+results/T__er_n500_k3_1__t0.10	mats/er_n500_k3_1.mtx md_light 3000 120 42 results/T__er_n500_k3_1__t0.10 --tassa adaptive --esik 0.10
+results/T__er_n500_k3_1__t0.20	mats/er_n500_k3_1.mtx md_light 3000 120 42 results/T__er_n500_k3_1__t0.20 --tassa adaptive --esik 0.20
+results/T__er_n500_k3_1__t0.30	mats/er_n500_k3_1.mtx md_light 3000 120 42 results/T__er_n500_k3_1__t0.30 --tassa adaptive --esik 0.30
+results/T__er_n500_k3_1__t0.50	mats/er_n500_k3_1.mtx md_light 3000 120 42 results/T__er_n500_k3_1__t0.50 --tassa adaptive --esik 0.50
+results/T__er_n500_k3_1__t0.80	mats/er_n500_k3_1.mtx md_light 3000 120 42 results/T__er_n500_k3_1__t0.80 --tassa adaptive --esik 0.80
+results/T__er_n1000_k3_1__t0.10	mats/er_n1000_k3_1.mtx md_light 3000 120 42 results/T__er_n1000_k3_1__t0.10 --tassa adaptive --esik 0.10
+results/T__er_n1000_k3_1__t0.20	mats/er_n1000_k3_1.mtx md_light 3000 120 42 results/T__er_n1000_k3_1__t0.20 --tassa adaptive --esik 0.20
+results/T__er_n1000_k3_1__t0.30	mats/er_n1000_k3_1.mtx md_light 3000 120 42 results/T__er_n1000_k3_1__t0.30 --tassa adaptive --esik 0.30
+results/T__er_n1000_k3_1__t0.50	mats/er_n1000_k3_1.mtx md_light 3000 120 42 results/T__er_n1000_k3_1__t0.50 --tassa adaptive --esik 0.50
+results/T__er_n1000_k3_1__t0.80	mats/er_n1000_k3_1.mtx md_light 3000 120 42 results/T__er_n1000_k3_1__t0.80 --tassa adaptive --esik 0.80
+results/T__block_diagonal_n1000_p0p1__t0.10	mats/block_diagonal_n1000_p0p1.mtx md_light 3000 120 42 results/T__block_diagonal_n1000_p0p1__t0.10 --tassa adaptive --esik 0.10
+results/T__block_diagonal_n1000_p0p1__t0.20	mats/block_diagonal_n1000_p0p1.mtx md_light 3000 120 42 results/T__block_diagonal_n1000_p0p1__t0.20 --tassa adaptive --esik 0.20
+results/T__block_diagonal_n1000_p0p1__t0.30	mats/block_diagonal_n1000_p0p1.mtx md_light 3000 120 42 results/T__block_diagonal_n1000_p0p1__t0.30 --tassa adaptive --esik 0.30
+results/T__block_diagonal_n1000_p0p1__t0.50	mats/block_diagonal_n1000_p0p1.mtx md_light 3000 120 42 results/T__block_diagonal_n1000_p0p1__t0.50 --tassa adaptive --esik 0.50
+results/T__block_diagonal_n1000_p0p1__t0.80	mats/block_diagonal_n1000_p0p1.mtx md_light 3000 120 42 results/T__block_diagonal_n1000_p0p1__t0.80 --tassa adaptive --esik 0.80
+results/T__dwt_503__t0.10	mats/dwt_503.mtx md_light 3000 120 42 results/T__dwt_503__t0.10 --pattern --tassa adaptive --esik 0.10
+results/T__dwt_503__t0.20	mats/dwt_503.mtx md_light 3000 120 42 results/T__dwt_503__t0.20 --pattern --tassa adaptive --esik 0.20
+results/T__dwt_503__t0.30	mats/dwt_503.mtx md_light 3000 120 42 results/T__dwt_503__t0.30 --pattern --tassa adaptive --esik 0.30
+results/T__dwt_503__t0.50	mats/dwt_503.mtx md_light 3000 120 42 results/T__dwt_503__t0.50 --pattern --tassa adaptive --esik 0.50
+results/T__dwt_503__t0.80	mats/dwt_503.mtx md_light 3000 120 42 results/T__dwt_503__t0.80 --pattern --tassa adaptive --esik 0.80
+results/T__olm500__t0.10	mats/olm500.mtx md_light 3000 120 42 results/T__olm500__t0.10 --pattern --tassa adaptive --esik 0.10
+results/T__olm500__t0.20	mats/olm500.mtx md_light 3000 120 42 results/T__olm500__t0.20 --pattern --tassa adaptive --esik 0.20
+results/T__olm500__t0.30	mats/olm500.mtx md_light 3000 120 42 results/T__olm500__t0.30 --pattern --tassa adaptive --esik 0.30
+results/T__olm500__t0.50	mats/olm500.mtx md_light 3000 120 42 results/T__olm500__t0.50 --pattern --tassa adaptive --esik 0.50
+results/T__olm500__t0.80	mats/olm500.mtx md_light 3000 120 42 results/T__olm500__t0.80 --pattern --tassa adaptive --esik 0.80
+results/Z__generated_500_494_1__b5_never_s42	mats/generated_500_494_1.mtx md_light 100000000 5 42 results/Z__generated_500_494_1__b5_never_s42 --tassa never
+results/Z__generated_500_494_1__b15_never_s42	mats/generated_500_494_1.mtx md_light 100000000 15 42 results/Z__generated_500_494_1__b15_never_s42 --tassa never
+results/Z__generated_500_494_1__b60_never_s42	mats/generated_500_494_1.mtx md_light 100000000 60 42 results/Z__generated_500_494_1__b60_never_s42 --tassa never
+results/Z__generated_500_494_1__b5_adaptive_s42	mats/generated_500_494_1.mtx md_light 100000000 5 42 results/Z__generated_500_494_1__b5_adaptive_s42 --tassa adaptive
+results/Z__generated_500_494_1__b15_adaptive_s42	mats/generated_500_494_1.mtx md_light 100000000 15 42 results/Z__generated_500_494_1__b15_adaptive_s42 --tassa adaptive
+results/Z__generated_500_494_1__b60_adaptive_s42	mats/generated_500_494_1.mtx md_light 100000000 60 42 results/Z__generated_500_494_1__b60_adaptive_s42 --tassa adaptive
+results/Z__generated_500_494_1__b5_always_s42	mats/generated_500_494_1.mtx md_light 100000000 5 42 results/Z__generated_500_494_1__b5_always_s42 --tassa always
+results/Z__generated_500_494_1__b15_always_s42	mats/generated_500_494_1.mtx md_light 100000000 15 42 results/Z__generated_500_494_1__b15_always_s42 --tassa always
+results/Z__generated_500_494_1__b60_always_s42	mats/generated_500_494_1.mtx md_light 100000000 60 42 results/Z__generated_500_494_1__b60_always_s42 --tassa always
+results/Z__generated_500_494_1__b5_never_s43	mats/generated_500_494_1.mtx md_light 100000000 5 43 results/Z__generated_500_494_1__b5_never_s43 --tassa never
+results/Z__generated_500_494_1__b15_never_s43	mats/generated_500_494_1.mtx md_light 100000000 15 43 results/Z__generated_500_494_1__b15_never_s43 --tassa never
+results/Z__generated_500_494_1__b60_never_s43	mats/generated_500_494_1.mtx md_light 100000000 60 43 results/Z__generated_500_494_1__b60_never_s43 --tassa never
+results/Z__generated_500_494_1__b5_adaptive_s43	mats/generated_500_494_1.mtx md_light 100000000 5 43 results/Z__generated_500_494_1__b5_adaptive_s43 --tassa adaptive
+results/Z__generated_500_494_1__b15_adaptive_s43	mats/generated_500_494_1.mtx md_light 100000000 15 43 results/Z__generated_500_494_1__b15_adaptive_s43 --tassa adaptive
+results/Z__generated_500_494_1__b60_adaptive_s43	mats/generated_500_494_1.mtx md_light 100000000 60 43 results/Z__generated_500_494_1__b60_adaptive_s43 --tassa adaptive
+results/Z__generated_500_494_1__b5_always_s43	mats/generated_500_494_1.mtx md_light 100000000 5 43 results/Z__generated_500_494_1__b5_always_s43 --tassa always
+results/Z__generated_500_494_1__b15_always_s43	mats/generated_500_494_1.mtx md_light 100000000 15 43 results/Z__generated_500_494_1__b15_always_s43 --tassa always
+results/Z__generated_500_494_1__b60_always_s43	mats/generated_500_494_1.mtx md_light 100000000 60 43 results/Z__generated_500_494_1__b60_always_s43 --tassa always
+results/Z__generated_500_494_1__b5_never_s44	mats/generated_500_494_1.mtx md_light 100000000 5 44 results/Z__generated_500_494_1__b5_never_s44 --tassa never
+results/Z__generated_500_494_1__b15_never_s44	mats/generated_500_494_1.mtx md_light 100000000 15 44 results/Z__generated_500_494_1__b15_never_s44 --tassa never
+results/Z__generated_500_494_1__b60_never_s44	mats/generated_500_494_1.mtx md_light 100000000 60 44 results/Z__generated_500_494_1__b60_never_s44 --tassa never
+results/Z__generated_500_494_1__b5_adaptive_s44	mats/generated_500_494_1.mtx md_light 100000000 5 44 results/Z__generated_500_494_1__b5_adaptive_s44 --tassa adaptive
+results/Z__generated_500_494_1__b15_adaptive_s44	mats/generated_500_494_1.mtx md_light 100000000 15 44 results/Z__generated_500_494_1__b15_adaptive_s44 --tassa adaptive
+results/Z__generated_500_494_1__b60_adaptive_s44	mats/generated_500_494_1.mtx md_light 100000000 60 44 results/Z__generated_500_494_1__b60_adaptive_s44 --tassa adaptive
+results/Z__generated_500_494_1__b5_always_s44	mats/generated_500_494_1.mtx md_light 100000000 5 44 results/Z__generated_500_494_1__b5_always_s44 --tassa always
+results/Z__generated_500_494_1__b15_always_s44	mats/generated_500_494_1.mtx md_light 100000000 15 44 results/Z__generated_500_494_1__b15_always_s44 --tassa always
+results/Z__generated_500_494_1__b60_always_s44	mats/generated_500_494_1.mtx md_light 100000000 60 44 results/Z__generated_500_494_1__b60_always_s44 --tassa always
+results/S__generated_500_494_1__n3000_never_s42	mats/generated_500_494_1.mtx md_light 3000 200 42 results/S__generated_500_494_1__n3000_never_s42 --tassa never
+results/S__generated_500_494_1__n30000_never_s42	mats/generated_500_494_1.mtx md_light 30000 200 42 results/S__generated_500_494_1__n30000_never_s42 --tassa never
+results/S__generated_500_494_1__n3000_adaptive_s42	mats/generated_500_494_1.mtx md_light 3000 200 42 results/S__generated_500_494_1__n3000_adaptive_s42 --tassa adaptive
+results/S__generated_500_494_1__n30000_adaptive_s42	mats/generated_500_494_1.mtx md_light 30000 200 42 results/S__generated_500_494_1__n30000_adaptive_s42 --tassa adaptive
+results/S__generated_500_494_1__n3000_never_s43	mats/generated_500_494_1.mtx md_light 3000 200 43 results/S__generated_500_494_1__n3000_never_s43 --tassa never
+results/S__generated_500_494_1__n30000_never_s43	mats/generated_500_494_1.mtx md_light 30000 200 43 results/S__generated_500_494_1__n30000_never_s43 --tassa never
+results/S__generated_500_494_1__n3000_adaptive_s43	mats/generated_500_494_1.mtx md_light 3000 200 43 results/S__generated_500_494_1__n3000_adaptive_s43 --tassa adaptive
+results/S__generated_500_494_1__n30000_adaptive_s43	mats/generated_500_494_1.mtx md_light 30000 200 43 results/S__generated_500_494_1__n30000_adaptive_s43 --tassa adaptive
+results/S__generated_500_494_1__n3000_never_s44	mats/generated_500_494_1.mtx md_light 3000 200 44 results/S__generated_500_494_1__n3000_never_s44 --tassa never
+results/S__generated_500_494_1__n30000_never_s44	mats/generated_500_494_1.mtx md_light 30000 200 44 results/S__generated_500_494_1__n30000_never_s44 --tassa never
+results/S__generated_500_494_1__n3000_adaptive_s44	mats/generated_500_494_1.mtx md_light 3000 200 44 results/S__generated_500_494_1__n3000_adaptive_s44 --tassa adaptive
+results/S__generated_500_494_1__n30000_adaptive_s44	mats/generated_500_494_1.mtx md_light 30000 200 44 results/S__generated_500_494_1__n30000_adaptive_s44 --tassa adaptive
+results/S__band_n1000_k3__n1000_never_s42	mats/band_n1000_k3.mtx md_light 1000 200 42 results/S__band_n1000_k3__n1000_never_s42
+results/S__band_n1000_k3__n3000_never_s42	mats/band_n1000_k3.mtx md_light 3000 200 42 results/S__band_n1000_k3__n3000_never_s42
+results/S__band_n1000_k3__n30000_never_s42	mats/band_n1000_k3.mtx md_light 30000 200 42 results/S__band_n1000_k3__n30000_never_s42
+results/DS__generated_500_494_1__md_once	mats/generated_500_494_1.mtx md_once 300 60 42 results/DS__generated_500_494_1__md_once --dsizle
+results/DS__generated_500_494_1__md_light	mats/generated_500_494_1.mtx md_light 300 60 42 results/DS__generated_500_494_1__md_light --dsizle
+results/DS__er_n500_k3_1__md_once	mats/er_n500_k3_1.mtx md_once 300 60 42 results/DS__er_n500_k3_1__md_once --dsizle
+results/DS__er_n500_k3_1__md_light	mats/er_n500_k3_1.mtx md_light 300 60 42 results/DS__er_n500_k3_1__md_light --dsizle
+results/DS__band_n1000_k3__md_once	mats/band_n1000_k3.mtx md_once 300 60 42 results/DS__band_n1000_k3__md_once --dsizle
+results/DS__band_n1000_k3__md_light	mats/band_n1000_k3.mtx md_light 300 60 42 results/DS__band_n1000_k3__md_light --dsizle
+results/W__erdos_renyi_n100_k5__md	mats/erdos_renyi_n100_k5.mtx md 1000 60 42 results/W__erdos_renyi_n100_k5__md
+results/W__erdos_renyi_n100_k5__md_light	mats/erdos_renyi_n100_k5.mtx md_light 1000 60 42 results/W__erdos_renyi_n100_k5__md_light
+results/W__erdos_renyi_n100_k5_weighted__md	mats/erdos_renyi_n100_k5_weighted.mtx md 1000 60 42 results/W__erdos_renyi_n100_k5_weighted__md
+results/W__erdos_renyi_n100_k5_weighted__md_light	mats/erdos_renyi_n100_k5_weighted.mtx md_light 1000 60 42 results/W__erdos_renyi_n100_k5_weighted__md_light
+results/W__erdos_renyi_n100_k7__md	mats/erdos_renyi_n100_k7.mtx md 1000 60 42 results/W__erdos_renyi_n100_k7__md
+results/W__erdos_renyi_n100_k7__md_light	mats/erdos_renyi_n100_k7.mtx md_light 1000 60 42 results/W__erdos_renyi_n100_k7__md_light
+results/W__erdos_renyi_n100_k7_weighted__md	mats/erdos_renyi_n100_k7_weighted.mtx md 1000 60 42 results/W__erdos_renyi_n100_k7_weighted__md
+results/W__erdos_renyi_n100_k7_weighted__md_light	mats/erdos_renyi_n100_k7_weighted.mtx md_light 1000 60 42 results/W__erdos_renyi_n100_k7_weighted__md_light
+results/W__erdos_renyi_n500_k5__md	mats/erdos_renyi_n500_k5.mtx md 1000 60 42 results/W__erdos_renyi_n500_k5__md
+results/W__erdos_renyi_n500_k5__md_light	mats/erdos_renyi_n500_k5.mtx md_light 1000 60 42 results/W__erdos_renyi_n500_k5__md_light
+results/W__erdos_renyi_n500_k5_weighted__md	mats/erdos_renyi_n500_k5_weighted.mtx md 1000 60 42 results/W__erdos_renyi_n500_k5_weighted__md
+results/W__erdos_renyi_n500_k5_weighted__md_light	mats/erdos_renyi_n500_k5_weighted.mtx md_light 1000 60 42 results/W__erdos_renyi_n500_k5_weighted__md_light
+results/W__erdos_renyi_n500_k7__md	mats/erdos_renyi_n500_k7.mtx md 1000 60 42 results/W__erdos_renyi_n500_k7__md
+results/W__erdos_renyi_n500_k7__md_light	mats/erdos_renyi_n500_k7.mtx md_light 1000 60 42 results/W__erdos_renyi_n500_k7__md_light
+results/W__erdos_renyi_n500_k7_weighted__md	mats/erdos_renyi_n500_k7_weighted.mtx md 1000 60 42 results/W__erdos_renyi_n500_k7_weighted__md
+results/W__erdos_renyi_n500_k7_weighted__md_light	mats/erdos_renyi_n500_k7_weighted.mtx md_light 1000 60 42 results/W__erdos_renyi_n500_k7_weighted__md_light
+results/W__erdos_renyi_n1000_k5__md	mats/erdos_renyi_n1000_k5.mtx md 1000 60 42 results/W__erdos_renyi_n1000_k5__md
+results/W__erdos_renyi_n1000_k5__md_light	mats/erdos_renyi_n1000_k5.mtx md_light 1000 60 42 results/W__erdos_renyi_n1000_k5__md_light
+results/W__erdos_renyi_n1000_k5_weighted__md	mats/erdos_renyi_n1000_k5_weighted.mtx md 1000 60 42 results/W__erdos_renyi_n1000_k5_weighted__md
+results/W__erdos_renyi_n1000_k5_weighted__md_light	mats/erdos_renyi_n1000_k5_weighted.mtx md_light 1000 60 42 results/W__erdos_renyi_n1000_k5_weighted__md_light
+results/W__erdos_renyi_n1000_k7_weighted__md	mats/erdos_renyi_n1000_k7_weighted.mtx md 1000 60 42 results/W__erdos_renyi_n1000_k7_weighted__md
+results/W__erdos_renyi_n1000_k7_weighted__md_light	mats/erdos_renyi_n1000_k7_weighted.mtx md_light 1000 60 42 results/W__erdos_renyi_n1000_k7_weighted__md_light
+results/S__band_n1000_k3__n1000_never_s43	mats/band_n1000_k3.mtx md_light 1000 200 43 results/S__band_n1000_k3__n1000_never_s43
+results/S__band_n1000_k3__n3000_never_s43	mats/band_n1000_k3.mtx md_light 3000 200 43 results/S__band_n1000_k3__n3000_never_s43
+results/S__band_n1000_k3__n30000_never_s43	mats/band_n1000_k3.mtx md_light 30000 200 43 results/S__band_n1000_k3__n30000_never_s43
+results/S__band_n1000_k3__n1000_never_s44	mats/band_n1000_k3.mtx md_light 1000 200 44 results/S__band_n1000_k3__n1000_never_s44
+results/S__band_n1000_k3__n3000_never_s44	mats/band_n1000_k3.mtx md_light 3000 200 44 results/S__band_n1000_k3__n3000_never_s44
+results/S__band_n1000_k3__n30000_never_s44	mats/band_n1000_k3.mtx md_light 30000 200 44 results/S__band_n1000_k3__n30000_never_s44

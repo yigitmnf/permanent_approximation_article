@@ -1,0 +1,560 @@
+results/K__band_n100_k2__ras	mats/band_n100_k2.mtx ras 10000 120 42 results/K__band_n100_k2__ras
+results/K__band_n100_k2__once	mats/band_n100_k2.mtx once 10000 120 42 results/K__band_n100_k2__once
+results/K__band_n100_k2__light	mats/band_n100_k2.mtx light 10000 120 42 results/K__band_n100_k2__light
+results/K__band_n100_k2__md	mats/band_n100_k2.mtx md 10000 120 42 results/K__band_n100_k2__md
+results/K__band_n100_k2__md_once	mats/band_n100_k2.mtx md_once 10000 120 42 results/K__band_n100_k2__md_once
+results/K__band_n100_k2__md_light	mats/band_n100_k2.mtx md_light 10000 120 42 results/K__band_n100_k2__md_light
+results/K__band_n100_k3__ras	mats/band_n100_k3.mtx ras 10000 120 42 results/K__band_n100_k3__ras
+results/K__band_n100_k3__once	mats/band_n100_k3.mtx once 10000 120 42 results/K__band_n100_k3__once
+results/K__band_n100_k3__light	mats/band_n100_k3.mtx light 10000 120 42 results/K__band_n100_k3__light
+results/K__band_n100_k3__md	mats/band_n100_k3.mtx md 10000 120 42 results/K__band_n100_k3__md
+results/K__band_n100_k3__md_once	mats/band_n100_k3.mtx md_once 10000 120 42 results/K__band_n100_k3__md_once
+results/K__band_n100_k3__md_light	mats/band_n100_k3.mtx md_light 10000 120 42 results/K__band_n100_k3__md_light
+results/K__band_n500_k3__ras	mats/band_n500_k3.mtx ras 10000 120 42 results/K__band_n500_k3__ras
+results/K__band_n500_k3__once	mats/band_n500_k3.mtx once 10000 120 42 results/K__band_n500_k3__once
+results/K__band_n500_k3__light	mats/band_n500_k3.mtx light 10000 120 42 results/K__band_n500_k3__light
+results/K__band_n500_k3__md	mats/band_n500_k3.mtx md 10000 120 42 results/K__band_n500_k3__md
+results/K__band_n500_k3__md_once	mats/band_n500_k3.mtx md_once 10000 120 42 results/K__band_n500_k3__md_once
+results/K__band_n500_k3__md_light	mats/band_n500_k3.mtx md_light 10000 120 42 results/K__band_n500_k3__md_light
+results/K__band_n1000_k2__ras	mats/band_n1000_k2.mtx ras 10000 120 42 results/K__band_n1000_k2__ras
+results/K__band_n1000_k2__once	mats/band_n1000_k2.mtx once 10000 120 42 results/K__band_n1000_k2__once
+results/K__band_n1000_k2__light	mats/band_n1000_k2.mtx light 10000 120 42 results/K__band_n1000_k2__light
+results/K__band_n1000_k2__md	mats/band_n1000_k2.mtx md 10000 120 42 results/K__band_n1000_k2__md
+results/K__band_n1000_k2__md_once	mats/band_n1000_k2.mtx md_once 10000 120 42 results/K__band_n1000_k2__md_once
+results/K__band_n1000_k2__md_light	mats/band_n1000_k2.mtx md_light 10000 120 42 results/K__band_n1000_k2__md_light
+results/K__band_n1000_k3__ras	mats/band_n1000_k3.mtx ras 10000 120 42 results/K__band_n1000_k3__ras
+results/K__band_n1000_k3__once	mats/band_n1000_k3.mtx once 10000 120 42 results/K__band_n1000_k3__once
+results/K__band_n1000_k3__light	mats/band_n1000_k3.mtx light 10000 120 42 results/K__band_n1000_k3__light
+results/K__band_n1000_k3__md	mats/band_n1000_k3.mtx md 10000 120 42 results/K__band_n1000_k3__md
+results/K__band_n1000_k3__md_once	mats/band_n1000_k3.mtx md_once 10000 120 42 results/K__band_n1000_k3__md_once
+results/K__band_n1000_k3__md_light	mats/band_n1000_k3.mtx md_light 10000 120 42 results/K__band_n1000_k3__md_light
+results/K__block_diagonal_n500_p0p1__ras	mats/block_diagonal_n500_p0p1.mtx ras 10000 120 42 results/K__block_diagonal_n500_p0p1__ras
+results/K__block_diagonal_n500_p0p1__once	mats/block_diagonal_n500_p0p1.mtx once 10000 120 42 results/K__block_diagonal_n500_p0p1__once
+results/K__block_diagonal_n500_p0p1__light	mats/block_diagonal_n500_p0p1.mtx light 10000 120 42 results/K__block_diagonal_n500_p0p1__light
+results/K__block_diagonal_n500_p0p1__md	mats/block_diagonal_n500_p0p1.mtx md 10000 120 42 results/K__block_diagonal_n500_p0p1__md
+results/K__block_diagonal_n500_p0p1__md_once	mats/block_diagonal_n500_p0p1.mtx md_once 10000 120 42 results/K__block_diagonal_n500_p0p1__md_once
+results/K__block_diagonal_n500_p0p1__md_light	mats/block_diagonal_n500_p0p1.mtx md_light 10000 120 42 results/K__block_diagonal_n500_p0p1__md_light
+results/K__block_diagonal_n500_p0p3__ras	mats/block_diagonal_n500_p0p3.mtx ras 10000 120 42 results/K__block_diagonal_n500_p0p3__ras
+results/K__block_diagonal_n500_p0p3__once	mats/block_diagonal_n500_p0p3.mtx once 10000 120 42 results/K__block_diagonal_n500_p0p3__once
+results/K__block_diagonal_n500_p0p3__light	mats/block_diagonal_n500_p0p3.mtx light 10000 120 42 results/K__block_diagonal_n500_p0p3__light
+results/K__block_diagonal_n500_p0p3__md	mats/block_diagonal_n500_p0p3.mtx md 10000 120 42 results/K__block_diagonal_n500_p0p3__md
+results/K__block_diagonal_n500_p0p3__md_once	mats/block_diagonal_n500_p0p3.mtx md_once 10000 120 42 results/K__block_diagonal_n500_p0p3__md_once
+results/K__block_diagonal_n500_p0p3__md_light	mats/block_diagonal_n500_p0p3.mtx md_light 10000 120 42 results/K__block_diagonal_n500_p0p3__md_light
+results/K__block_diagonal_n500_p0p5__ras	mats/block_diagonal_n500_p0p5.mtx ras 10000 120 42 results/K__block_diagonal_n500_p0p5__ras
+results/K__block_diagonal_n500_p0p5__once	mats/block_diagonal_n500_p0p5.mtx once 10000 120 42 results/K__block_diagonal_n500_p0p5__once
+results/K__block_diagonal_n500_p0p5__light	mats/block_diagonal_n500_p0p5.mtx light 10000 120 42 results/K__block_diagonal_n500_p0p5__light
+results/K__block_diagonal_n500_p0p5__md	mats/block_diagonal_n500_p0p5.mtx md 10000 120 42 results/K__block_diagonal_n500_p0p5__md
+results/K__block_diagonal_n500_p0p5__md_once	mats/block_diagonal_n500_p0p5.mtx md_once 10000 120 42 results/K__block_diagonal_n500_p0p5__md_once
+results/K__block_diagonal_n500_p0p5__md_light	mats/block_diagonal_n500_p0p5.mtx md_light 10000 120 42 results/K__block_diagonal_n500_p0p5__md_light
+results/K__block_diagonal_n500_p0p9__ras	mats/block_diagonal_n500_p0p9.mtx ras 10000 120 42 results/K__block_diagonal_n500_p0p9__ras
+results/K__block_diagonal_n500_p0p9__once	mats/block_diagonal_n500_p0p9.mtx once 10000 120 42 results/K__block_diagonal_n500_p0p9__once
+results/K__block_diagonal_n500_p0p9__light	mats/block_diagonal_n500_p0p9.mtx light 10000 120 42 results/K__block_diagonal_n500_p0p9__light
+results/K__block_diagonal_n500_p0p9__md	mats/block_diagonal_n500_p0p9.mtx md 10000 120 42 results/K__block_diagonal_n500_p0p9__md
+results/K__block_diagonal_n500_p0p9__md_once	mats/block_diagonal_n500_p0p9.mtx md_once 10000 120 42 results/K__block_diagonal_n500_p0p9__md_once
+results/K__block_diagonal_n500_p0p9__md_light	mats/block_diagonal_n500_p0p9.mtx md_light 10000 120 42 results/K__block_diagonal_n500_p0p9__md_light
+results/K__block_diagonal_n1000_p0p1__ras	mats/block_diagonal_n1000_p0p1.mtx ras 10000 120 42 results/K__block_diagonal_n1000_p0p1__ras
+results/K__block_diagonal_n1000_p0p1__once	mats/block_diagonal_n1000_p0p1.mtx once 10000 120 42 results/K__block_diagonal_n1000_p0p1__once
+results/K__block_diagonal_n1000_p0p1__light	mats/block_diagonal_n1000_p0p1.mtx light 10000 120 42 results/K__block_diagonal_n1000_p0p1__light
+results/K__block_diagonal_n1000_p0p1__md	mats/block_diagonal_n1000_p0p1.mtx md 10000 120 42 results/K__block_diagonal_n1000_p0p1__md
+results/K__block_diagonal_n1000_p0p1__md_once	mats/block_diagonal_n1000_p0p1.mtx md_once 10000 120 42 results/K__block_diagonal_n1000_p0p1__md_once
+results/K__block_diagonal_n1000_p0p1__md_light	mats/block_diagonal_n1000_p0p1.mtx md_light 10000 120 42 results/K__block_diagonal_n1000_p0p1__md_light
+results/K__block_diagonal_n1000_p0p3__ras	mats/block_diagonal_n1000_p0p3.mtx ras 10000 120 42 results/K__block_diagonal_n1000_p0p3__ras
+results/K__block_diagonal_n1000_p0p3__once	mats/block_diagonal_n1000_p0p3.mtx once 10000 120 42 results/K__block_diagonal_n1000_p0p3__once
+results/K__block_diagonal_n1000_p0p3__light	mats/block_diagonal_n1000_p0p3.mtx light 10000 120 42 results/K__block_diagonal_n1000_p0p3__light
+results/K__block_diagonal_n1000_p0p3__md	mats/block_diagonal_n1000_p0p3.mtx md 10000 120 42 results/K__block_diagonal_n1000_p0p3__md
+results/K__block_diagonal_n1000_p0p3__md_once	mats/block_diagonal_n1000_p0p3.mtx md_once 10000 120 42 results/K__block_diagonal_n1000_p0p3__md_once
+results/K__block_diagonal_n1000_p0p3__md_light	mats/block_diagonal_n1000_p0p3.mtx md_light 10000 120 42 results/K__block_diagonal_n1000_p0p3__md_light
+results/K__block_diagonal_n1000_p0p5__ras	mats/block_diagonal_n1000_p0p5.mtx ras 10000 120 42 results/K__block_diagonal_n1000_p0p5__ras
+results/K__block_diagonal_n1000_p0p5__once	mats/block_diagonal_n1000_p0p5.mtx once 10000 120 42 results/K__block_diagonal_n1000_p0p5__once
+results/K__block_diagonal_n1000_p0p5__light	mats/block_diagonal_n1000_p0p5.mtx light 10000 120 42 results/K__block_diagonal_n1000_p0p5__light
+results/K__block_diagonal_n1000_p0p5__md	mats/block_diagonal_n1000_p0p5.mtx md 10000 120 42 results/K__block_diagonal_n1000_p0p5__md
+results/K__block_diagonal_n1000_p0p5__md_once	mats/block_diagonal_n1000_p0p5.mtx md_once 10000 120 42 results/K__block_diagonal_n1000_p0p5__md_once
+results/K__block_diagonal_n1000_p0p5__md_light	mats/block_diagonal_n1000_p0p5.mtx md_light 10000 120 42 results/K__block_diagonal_n1000_p0p5__md_light
+results/K__block_diagonal_n1000_p0p9__ras	mats/block_diagonal_n1000_p0p9.mtx ras 10000 120 42 results/K__block_diagonal_n1000_p0p9__ras
+results/K__block_diagonal_n1000_p0p9__once	mats/block_diagonal_n1000_p0p9.mtx once 10000 120 42 results/K__block_diagonal_n1000_p0p9__once
+results/K__block_diagonal_n1000_p0p9__light	mats/block_diagonal_n1000_p0p9.mtx light 10000 120 42 results/K__block_diagonal_n1000_p0p9__light
+results/K__block_diagonal_n1000_p0p9__md	mats/block_diagonal_n1000_p0p9.mtx md 10000 120 42 results/K__block_diagonal_n1000_p0p9__md
+results/K__block_diagonal_n1000_p0p9__md_once	mats/block_diagonal_n1000_p0p9.mtx md_once 10000 120 42 results/K__block_diagonal_n1000_p0p9__md_once
+results/K__block_diagonal_n1000_p0p9__md_light	mats/block_diagonal_n1000_p0p9.mtx md_light 10000 120 42 results/K__block_diagonal_n1000_p0p9__md_light
+results/K__generated_500_494_1__ras	mats/generated_500_494_1.mtx ras 10000 120 42 results/K__generated_500_494_1__ras
+results/K__generated_500_494_1__once	mats/generated_500_494_1.mtx once 10000 120 42 results/K__generated_500_494_1__once
+results/K__generated_500_494_1__light	mats/generated_500_494_1.mtx light 10000 120 42 results/K__generated_500_494_1__light
+results/K__generated_500_494_1__md	mats/generated_500_494_1.mtx md 10000 120 42 results/K__generated_500_494_1__md
+results/K__generated_500_494_1__md_once	mats/generated_500_494_1.mtx md_once 10000 120 42 results/K__generated_500_494_1__md_once
+results/K__generated_500_494_1__md_light	mats/generated_500_494_1.mtx md_light 10000 120 42 results/K__generated_500_494_1__md_light
+results/K__generated_500_499_4__ras	mats/generated_500_499_4.mtx ras 10000 120 42 results/K__generated_500_499_4__ras
+results/K__generated_500_499_4__once	mats/generated_500_499_4.mtx once 10000 120 42 results/K__generated_500_499_4__once
+results/K__generated_500_499_4__light	mats/generated_500_499_4.mtx light 10000 120 42 results/K__generated_500_499_4__light
+results/K__generated_500_499_4__md	mats/generated_500_499_4.mtx md 10000 120 42 results/K__generated_500_499_4__md
+results/K__generated_500_499_4__md_once	mats/generated_500_499_4.mtx md_once 10000 120 42 results/K__generated_500_499_4__md_once
+results/K__generated_500_499_4__md_light	mats/generated_500_499_4.mtx md_light 10000 120 42 results/K__generated_500_499_4__md_light
+results/K__generated_1000_989_4__ras	mats/generated_1000_989_4.mtx ras 10000 120 42 results/K__generated_1000_989_4__ras
+results/K__generated_1000_989_4__once	mats/generated_1000_989_4.mtx once 10000 120 42 results/K__generated_1000_989_4__once
+results/K__generated_1000_989_4__light	mats/generated_1000_989_4.mtx light 10000 120 42 results/K__generated_1000_989_4__light
+results/K__generated_1000_989_4__md	mats/generated_1000_989_4.mtx md 10000 120 42 results/K__generated_1000_989_4__md
+results/K__generated_1000_989_4__md_once	mats/generated_1000_989_4.mtx md_once 10000 120 42 results/K__generated_1000_989_4__md_once
+results/K__generated_1000_989_4__md_light	mats/generated_1000_989_4.mtx md_light 10000 120 42 results/K__generated_1000_989_4__md_light
+results/K__generated_1000_995_5__ras	mats/generated_1000_995_5.mtx ras 10000 120 42 results/K__generated_1000_995_5__ras
+results/K__generated_1000_995_5__once	mats/generated_1000_995_5.mtx once 10000 120 42 results/K__generated_1000_995_5__once
+results/K__generated_1000_995_5__light	mats/generated_1000_995_5.mtx light 10000 120 42 results/K__generated_1000_995_5__light
+results/K__generated_1000_995_5__md	mats/generated_1000_995_5.mtx md 10000 120 42 results/K__generated_1000_995_5__md
+results/K__generated_1000_995_5__md_once	mats/generated_1000_995_5.mtx md_once 10000 120 42 results/K__generated_1000_995_5__md_once
+results/K__generated_1000_995_5__md_light	mats/generated_1000_995_5.mtx md_light 10000 120 42 results/K__generated_1000_995_5__md_light
+results/A__generated_500_494_1__never	mats/generated_500_494_1.mtx md_light 10000 150 42 results/A__generated_500_494_1__never --tassa never
+results/A__generated_500_494_1__adaptive	mats/generated_500_494_1.mtx md_light 10000 150 42 results/A__generated_500_494_1__adaptive --tassa adaptive
+results/A__generated_500_494_1__always	mats/generated_500_494_1.mtx md_light 2000 150 42 results/A__generated_500_494_1__always --tassa always
+results/A__generated_1000_995_5__never	mats/generated_1000_995_5.mtx md_light 10000 150 42 results/A__generated_1000_995_5__never --tassa never
+results/A__generated_1000_995_5__adaptive	mats/generated_1000_995_5.mtx md_light 10000 150 42 results/A__generated_1000_995_5__adaptive --tassa adaptive
+results/A__generated_1000_995_5__always	mats/generated_1000_995_5.mtx md_light 2000 150 42 results/A__generated_1000_995_5__always --tassa always
+results/A__er_n500_k3_1__never	mats/er_n500_k3_1.mtx md_light 10000 150 42 results/A__er_n500_k3_1__never --tassa never
+results/A__er_n500_k3_1__adaptive	mats/er_n500_k3_1.mtx md_light 10000 150 42 results/A__er_n500_k3_1__adaptive --tassa adaptive
+results/A__er_n500_k3_1__always	mats/er_n500_k3_1.mtx md_light 2000 150 42 results/A__er_n500_k3_1__always --tassa always
+results/A__er_n500_k5_1__never	mats/er_n500_k5_1.mtx md_light 10000 150 42 results/A__er_n500_k5_1__never --tassa never
+results/A__er_n500_k5_1__adaptive	mats/er_n500_k5_1.mtx md_light 10000 150 42 results/A__er_n500_k5_1__adaptive --tassa adaptive
+results/A__er_n500_k5_1__always	mats/er_n500_k5_1.mtx md_light 2000 150 42 results/A__er_n500_k5_1__always --tassa always
+results/A__er_n1000_k3_1__never	mats/er_n1000_k3_1.mtx md_light 10000 150 42 results/A__er_n1000_k3_1__never --tassa never
+results/A__er_n1000_k3_1__adaptive	mats/er_n1000_k3_1.mtx md_light 10000 150 42 results/A__er_n1000_k3_1__adaptive --tassa adaptive
+results/A__er_n1000_k3_1__always	mats/er_n1000_k3_1.mtx md_light 2000 150 42 results/A__er_n1000_k3_1__always --tassa always
+results/A__block_diagonal_n1000_p0p1__never	mats/block_diagonal_n1000_p0p1.mtx md_light 10000 150 42 results/A__block_diagonal_n1000_p0p1__never --tassa never
+results/A__block_diagonal_n1000_p0p1__adaptive	mats/block_diagonal_n1000_p0p1.mtx md_light 10000 150 42 results/A__block_diagonal_n1000_p0p1__adaptive --tassa adaptive
+results/A__block_diagonal_n1000_p0p1__always	mats/block_diagonal_n1000_p0p1.mtx md_light 2000 150 42 results/A__block_diagonal_n1000_p0p1__always --tassa always
+results/A__dwt_503__never	mats/dwt_503.mtx md_light 10000 150 42 results/A__dwt_503__never --pattern --tassa never
+results/A__dwt_503__adaptive	mats/dwt_503.mtx md_light 10000 150 42 results/A__dwt_503__adaptive --pattern --tassa adaptive
+results/A__dwt_503__always	mats/dwt_503.mtx md_light 1000 150 42 results/A__dwt_503__always --pattern --tassa always
+results/A__olm500__never	mats/olm500.mtx md_light 1000 150 42 results/A__olm500__never --pattern --tassa never
+results/A__olm500__adaptive	mats/olm500.mtx md_light 1000 150 42 results/A__olm500__adaptive --pattern --tassa adaptive
+results/A__olm500__always	mats/olm500.mtx md_light 1000 150 42 results/A__olm500__always --pattern --tassa always
+results/D__generated_500_494_1__ras	mats/generated_500_494_1.mtx ras 1000 90 42 results/D__generated_500_494_1__ras --dogum
+results/D__generated_500_494_1__once	mats/generated_500_494_1.mtx once 1000 90 42 results/D__generated_500_494_1__once --dogum
+results/D__generated_500_494_1__light	mats/generated_500_494_1.mtx light 1000 90 42 results/D__generated_500_494_1__light --dogum
+results/D__generated_500_494_1__md	mats/generated_500_494_1.mtx md 1000 90 42 results/D__generated_500_494_1__md --dogum
+results/D__generated_500_494_1__md_once	mats/generated_500_494_1.mtx md_once 1000 90 42 results/D__generated_500_494_1__md_once --dogum
+results/D__generated_500_494_1__md_light	mats/generated_500_494_1.mtx md_light 1000 90 42 results/D__generated_500_494_1__md_light --dogum
+results/D__generated_1000_995_5__ras	mats/generated_1000_995_5.mtx ras 1000 90 42 results/D__generated_1000_995_5__ras --dogum --egri
+results/D__generated_1000_995_5__once	mats/generated_1000_995_5.mtx once 1000 90 42 results/D__generated_1000_995_5__once --dogum --egri
+results/D__generated_1000_995_5__light	mats/generated_1000_995_5.mtx light 1000 90 42 results/D__generated_1000_995_5__light --dogum --egri
+results/D__generated_1000_995_5__md	mats/generated_1000_995_5.mtx md 1000 90 42 results/D__generated_1000_995_5__md --dogum --egri
+results/D__generated_1000_995_5__md_once	mats/generated_1000_995_5.mtx md_once 1000 90 42 results/D__generated_1000_995_5__md_once --dogum --egri
+results/D__generated_1000_995_5__md_light	mats/generated_1000_995_5.mtx md_light 1000 90 42 results/D__generated_1000_995_5__md_light --dogum --egri
+results/D__er_n500_k3_1__ras	mats/er_n500_k3_1.mtx ras 1000 90 42 results/D__er_n500_k3_1__ras --dogum
+results/D__er_n500_k3_1__once	mats/er_n500_k3_1.mtx once 1000 90 42 results/D__er_n500_k3_1__once --dogum
+results/D__er_n500_k3_1__light	mats/er_n500_k3_1.mtx light 1000 90 42 results/D__er_n500_k3_1__light --dogum
+results/D__er_n500_k3_1__md	mats/er_n500_k3_1.mtx md 1000 90 42 results/D__er_n500_k3_1__md --dogum
+results/D__er_n500_k3_1__md_once	mats/er_n500_k3_1.mtx md_once 1000 90 42 results/D__er_n500_k3_1__md_once --dogum
+results/D__er_n500_k3_1__md_light	mats/er_n500_k3_1.mtx md_light 1000 90 42 results/D__er_n500_k3_1__md_light --dogum
+results/D__er_n1000_k3_1__ras	mats/er_n1000_k3_1.mtx ras 1000 90 42 results/D__er_n1000_k3_1__ras --dogum --egri
+results/D__er_n1000_k3_1__once	mats/er_n1000_k3_1.mtx once 1000 90 42 results/D__er_n1000_k3_1__once --dogum --egri
+results/D__er_n1000_k3_1__light	mats/er_n1000_k3_1.mtx light 1000 90 42 results/D__er_n1000_k3_1__light --dogum --egri
+results/D__er_n1000_k3_1__md	mats/er_n1000_k3_1.mtx md 1000 90 42 results/D__er_n1000_k3_1__md --dogum --egri
+results/D__er_n1000_k3_1__md_once	mats/er_n1000_k3_1.mtx md_once 1000 90 42 results/D__er_n1000_k3_1__md_once --dogum --egri
+results/D__er_n1000_k3_1__md_light	mats/er_n1000_k3_1.mtx md_light 1000 90 42 results/D__er_n1000_k3_1__md_light --dogum --egri
+results/D__block_diagonal_n1000_p0p3__ras	mats/block_diagonal_n1000_p0p3.mtx ras 1000 90 42 results/D__block_diagonal_n1000_p0p3__ras --dogum --egri
+results/D__block_diagonal_n1000_p0p3__once	mats/block_diagonal_n1000_p0p3.mtx once 1000 90 42 results/D__block_diagonal_n1000_p0p3__once --dogum --egri
+results/D__block_diagonal_n1000_p0p3__light	mats/block_diagonal_n1000_p0p3.mtx light 1000 90 42 results/D__block_diagonal_n1000_p0p3__light --dogum --egri
+results/D__block_diagonal_n1000_p0p3__md	mats/block_diagonal_n1000_p0p3.mtx md 1000 90 42 results/D__block_diagonal_n1000_p0p3__md --dogum --egri
+results/D__block_diagonal_n1000_p0p3__md_once	mats/block_diagonal_n1000_p0p3.mtx md_once 1000 90 42 results/D__block_diagonal_n1000_p0p3__md_once --dogum --egri
+results/D__block_diagonal_n1000_p0p3__md_light	mats/block_diagonal_n1000_p0p3.mtx md_light 1000 90 42 results/D__block_diagonal_n1000_p0p3__md_light --dogum --egri
+results/D__band_n1000_k3__ras	mats/band_n1000_k3.mtx ras 1000 90 42 results/D__band_n1000_k3__ras --dogum
+results/D__band_n1000_k3__once	mats/band_n1000_k3.mtx once 1000 90 42 results/D__band_n1000_k3__once --dogum
+results/D__band_n1000_k3__light	mats/band_n1000_k3.mtx light 1000 90 42 results/D__band_n1000_k3__light --dogum
+results/D__band_n1000_k3__md	mats/band_n1000_k3.mtx md 1000 90 42 results/D__band_n1000_k3__md --dogum
+results/D__band_n1000_k3__md_once	mats/band_n1000_k3.mtx md_once 1000 90 42 results/D__band_n1000_k3__md_once --dogum
+results/D__band_n1000_k3__md_light	mats/band_n1000_k3.mtx md_light 1000 90 42 results/D__band_n1000_k3__md_light --dogum
+results/D__dwt_503__ras	mats/dwt_503.mtx ras 1000 90 42 results/D__dwt_503__ras --pattern --dogum --egri
+results/D__dwt_503__once	mats/dwt_503.mtx once 1000 90 42 results/D__dwt_503__once --pattern --dogum --egri
+results/D__dwt_503__light	mats/dwt_503.mtx light 1000 90 42 results/D__dwt_503__light --pattern --dogum --egri
+results/D__dwt_503__md	mats/dwt_503.mtx md 1000 90 42 results/D__dwt_503__md --pattern --dogum --egri
+results/D__dwt_503__md_once	mats/dwt_503.mtx md_once 1000 90 42 results/D__dwt_503__md_once --pattern --dogum --egri
+results/D__dwt_503__md_light	mats/dwt_503.mtx md_light 1000 90 42 results/D__dwt_503__md_light --pattern --dogum --egri
+results/D__olm500__ras	mats/olm500.mtx ras 1000 90 42 results/D__olm500__ras --pattern --dogum
+results/D__olm500__once	mats/olm500.mtx once 1000 90 42 results/D__olm500__once --pattern --dogum
+results/D__olm500__light	mats/olm500.mtx light 1000 90 42 results/D__olm500__light --pattern --dogum
+results/D__olm500__md	mats/olm500.mtx md 1000 90 42 results/D__olm500__md --pattern --dogum
+results/D__olm500__md_once	mats/olm500.mtx md_once 1000 90 42 results/D__olm500__md_once --pattern --dogum
+results/D__olm500__md_light	mats/olm500.mtx md_light 1000 90 42 results/D__olm500__md_light --pattern --dogum
+results/E__er_n500_k3_1__ras	mats/er_n500_k3_1.mtx ras 1000 60 42 results/E__er_n500_k3_1__ras
+results/E__er_n500_k3_1__once	mats/er_n500_k3_1.mtx once 1000 60 42 results/E__er_n500_k3_1__once
+results/E__er_n500_k3_1__light	mats/er_n500_k3_1.mtx light 1000 60 42 results/E__er_n500_k3_1__light
+results/E__er_n500_k3_1__md	mats/er_n500_k3_1.mtx md 1000 60 42 results/E__er_n500_k3_1__md
+results/E__er_n500_k3_1__md_once	mats/er_n500_k3_1.mtx md_once 1000 60 42 results/E__er_n500_k3_1__md_once
+results/E__er_n500_k3_1__md_light	mats/er_n500_k3_1.mtx md_light 1000 60 42 results/E__er_n500_k3_1__md_light
+results/E__er_n500_k3_2__ras	mats/er_n500_k3_2.mtx ras 1000 60 42 results/E__er_n500_k3_2__ras
+results/E__er_n500_k3_2__once	mats/er_n500_k3_2.mtx once 1000 60 42 results/E__er_n500_k3_2__once
+results/E__er_n500_k3_2__light	mats/er_n500_k3_2.mtx light 1000 60 42 results/E__er_n500_k3_2__light
+results/E__er_n500_k3_2__md	mats/er_n500_k3_2.mtx md 1000 60 42 results/E__er_n500_k3_2__md
+results/E__er_n500_k3_2__md_once	mats/er_n500_k3_2.mtx md_once 1000 60 42 results/E__er_n500_k3_2__md_once
+results/E__er_n500_k3_2__md_light	mats/er_n500_k3_2.mtx md_light 1000 60 42 results/E__er_n500_k3_2__md_light
+results/E__er_n500_k3_3__ras	mats/er_n500_k3_3.mtx ras 1000 60 42 results/E__er_n500_k3_3__ras
+results/E__er_n500_k3_3__once	mats/er_n500_k3_3.mtx once 1000 60 42 results/E__er_n500_k3_3__once
+results/E__er_n500_k3_3__light	mats/er_n500_k3_3.mtx light 1000 60 42 results/E__er_n500_k3_3__light
+results/E__er_n500_k3_3__md	mats/er_n500_k3_3.mtx md 1000 60 42 results/E__er_n500_k3_3__md
+results/E__er_n500_k3_3__md_once	mats/er_n500_k3_3.mtx md_once 1000 60 42 results/E__er_n500_k3_3__md_once
+results/E__er_n500_k3_3__md_light	mats/er_n500_k3_3.mtx md_light 1000 60 42 results/E__er_n500_k3_3__md_light
+results/E__er_n500_k3_4__ras	mats/er_n500_k3_4.mtx ras 1000 60 42 results/E__er_n500_k3_4__ras
+results/E__er_n500_k3_4__once	mats/er_n500_k3_4.mtx once 1000 60 42 results/E__er_n500_k3_4__once
+results/E__er_n500_k3_4__light	mats/er_n500_k3_4.mtx light 1000 60 42 results/E__er_n500_k3_4__light
+results/E__er_n500_k3_4__md	mats/er_n500_k3_4.mtx md 1000 60 42 results/E__er_n500_k3_4__md
+results/E__er_n500_k3_4__md_once	mats/er_n500_k3_4.mtx md_once 1000 60 42 results/E__er_n500_k3_4__md_once
+results/E__er_n500_k3_4__md_light	mats/er_n500_k3_4.mtx md_light 1000 60 42 results/E__er_n500_k3_4__md_light
+results/E__er_n500_k3_5__ras	mats/er_n500_k3_5.mtx ras 1000 60 42 results/E__er_n500_k3_5__ras
+results/E__er_n500_k3_5__once	mats/er_n500_k3_5.mtx once 1000 60 42 results/E__er_n500_k3_5__once
+results/E__er_n500_k3_5__light	mats/er_n500_k3_5.mtx light 1000 60 42 results/E__er_n500_k3_5__light
+results/E__er_n500_k3_5__md	mats/er_n500_k3_5.mtx md 1000 60 42 results/E__er_n500_k3_5__md
+results/E__er_n500_k3_5__md_once	mats/er_n500_k3_5.mtx md_once 1000 60 42 results/E__er_n500_k3_5__md_once
+results/E__er_n500_k3_5__md_light	mats/er_n500_k3_5.mtx md_light 1000 60 42 results/E__er_n500_k3_5__md_light
+results/E__er_n500_k4_1__ras	mats/er_n500_k4_1.mtx ras 1000 60 42 results/E__er_n500_k4_1__ras
+results/E__er_n500_k4_1__once	mats/er_n500_k4_1.mtx once 1000 60 42 results/E__er_n500_k4_1__once
+results/E__er_n500_k4_1__light	mats/er_n500_k4_1.mtx light 1000 60 42 results/E__er_n500_k4_1__light
+results/E__er_n500_k4_1__md	mats/er_n500_k4_1.mtx md 1000 60 42 results/E__er_n500_k4_1__md
+results/E__er_n500_k4_1__md_once	mats/er_n500_k4_1.mtx md_once 1000 60 42 results/E__er_n500_k4_1__md_once
+results/E__er_n500_k4_1__md_light	mats/er_n500_k4_1.mtx md_light 1000 60 42 results/E__er_n500_k4_1__md_light
+results/E__er_n500_k4_2__ras	mats/er_n500_k4_2.mtx ras 1000 60 42 results/E__er_n500_k4_2__ras
+results/E__er_n500_k4_2__once	mats/er_n500_k4_2.mtx once 1000 60 42 results/E__er_n500_k4_2__once
+results/E__er_n500_k4_2__light	mats/er_n500_k4_2.mtx light 1000 60 42 results/E__er_n500_k4_2__light
+results/E__er_n500_k4_2__md	mats/er_n500_k4_2.mtx md 1000 60 42 results/E__er_n500_k4_2__md
+results/E__er_n500_k4_2__md_once	mats/er_n500_k4_2.mtx md_once 1000 60 42 results/E__er_n500_k4_2__md_once
+results/E__er_n500_k4_2__md_light	mats/er_n500_k4_2.mtx md_light 1000 60 42 results/E__er_n500_k4_2__md_light
+results/E__er_n500_k4_3__ras	mats/er_n500_k4_3.mtx ras 1000 60 42 results/E__er_n500_k4_3__ras
+results/E__er_n500_k4_3__once	mats/er_n500_k4_3.mtx once 1000 60 42 results/E__er_n500_k4_3__once
+results/E__er_n500_k4_3__light	mats/er_n500_k4_3.mtx light 1000 60 42 results/E__er_n500_k4_3__light
+results/E__er_n500_k4_3__md	mats/er_n500_k4_3.mtx md 1000 60 42 results/E__er_n500_k4_3__md
+results/E__er_n500_k4_3__md_once	mats/er_n500_k4_3.mtx md_once 1000 60 42 results/E__er_n500_k4_3__md_once
+results/E__er_n500_k4_3__md_light	mats/er_n500_k4_3.mtx md_light 1000 60 42 results/E__er_n500_k4_3__md_light
+results/E__er_n500_k4_4__ras	mats/er_n500_k4_4.mtx ras 1000 60 42 results/E__er_n500_k4_4__ras
+results/E__er_n500_k4_4__once	mats/er_n500_k4_4.mtx once 1000 60 42 results/E__er_n500_k4_4__once
+results/E__er_n500_k4_4__light	mats/er_n500_k4_4.mtx light 1000 60 42 results/E__er_n500_k4_4__light
+results/E__er_n500_k4_4__md	mats/er_n500_k4_4.mtx md 1000 60 42 results/E__er_n500_k4_4__md
+results/E__er_n500_k4_4__md_once	mats/er_n500_k4_4.mtx md_once 1000 60 42 results/E__er_n500_k4_4__md_once
+results/E__er_n500_k4_4__md_light	mats/er_n500_k4_4.mtx md_light 1000 60 42 results/E__er_n500_k4_4__md_light
+results/E__er_n500_k4_5__ras	mats/er_n500_k4_5.mtx ras 1000 60 42 results/E__er_n500_k4_5__ras
+results/E__er_n500_k4_5__once	mats/er_n500_k4_5.mtx once 1000 60 42 results/E__er_n500_k4_5__once
+results/E__er_n500_k4_5__light	mats/er_n500_k4_5.mtx light 1000 60 42 results/E__er_n500_k4_5__light
+results/E__er_n500_k4_5__md	mats/er_n500_k4_5.mtx md 1000 60 42 results/E__er_n500_k4_5__md
+results/E__er_n500_k4_5__md_once	mats/er_n500_k4_5.mtx md_once 1000 60 42 results/E__er_n500_k4_5__md_once
+results/E__er_n500_k4_5__md_light	mats/er_n500_k4_5.mtx md_light 1000 60 42 results/E__er_n500_k4_5__md_light
+results/E__er_n500_k5_1__ras	mats/er_n500_k5_1.mtx ras 1000 60 42 results/E__er_n500_k5_1__ras
+results/E__er_n500_k5_1__once	mats/er_n500_k5_1.mtx once 1000 60 42 results/E__er_n500_k5_1__once
+results/E__er_n500_k5_1__light	mats/er_n500_k5_1.mtx light 1000 60 42 results/E__er_n500_k5_1__light
+results/E__er_n500_k5_1__md	mats/er_n500_k5_1.mtx md 1000 60 42 results/E__er_n500_k5_1__md
+results/E__er_n500_k5_1__md_once	mats/er_n500_k5_1.mtx md_once 1000 60 42 results/E__er_n500_k5_1__md_once
+results/E__er_n500_k5_1__md_light	mats/er_n500_k5_1.mtx md_light 1000 60 42 results/E__er_n500_k5_1__md_light
+results/E__er_n500_k5_2__ras	mats/er_n500_k5_2.mtx ras 1000 60 42 results/E__er_n500_k5_2__ras
+results/E__er_n500_k5_2__once	mats/er_n500_k5_2.mtx once 1000 60 42 results/E__er_n500_k5_2__once
+results/E__er_n500_k5_2__light	mats/er_n500_k5_2.mtx light 1000 60 42 results/E__er_n500_k5_2__light
+results/E__er_n500_k5_2__md	mats/er_n500_k5_2.mtx md 1000 60 42 results/E__er_n500_k5_2__md
+results/E__er_n500_k5_2__md_once	mats/er_n500_k5_2.mtx md_once 1000 60 42 results/E__er_n500_k5_2__md_once
+results/E__er_n500_k5_2__md_light	mats/er_n500_k5_2.mtx md_light 1000 60 42 results/E__er_n500_k5_2__md_light
+results/E__er_n500_k5_3__ras	mats/er_n500_k5_3.mtx ras 1000 60 42 results/E__er_n500_k5_3__ras
+results/E__er_n500_k5_3__once	mats/er_n500_k5_3.mtx once 1000 60 42 results/E__er_n500_k5_3__once
+results/E__er_n500_k5_3__light	mats/er_n500_k5_3.mtx light 1000 60 42 results/E__er_n500_k5_3__light
+results/E__er_n500_k5_3__md	mats/er_n500_k5_3.mtx md 1000 60 42 results/E__er_n500_k5_3__md
+results/E__er_n500_k5_3__md_once	mats/er_n500_k5_3.mtx md_once 1000 60 42 results/E__er_n500_k5_3__md_once
+results/E__er_n500_k5_3__md_light	mats/er_n500_k5_3.mtx md_light 1000 60 42 results/E__er_n500_k5_3__md_light
+results/E__er_n500_k5_4__ras	mats/er_n500_k5_4.mtx ras 1000 60 42 results/E__er_n500_k5_4__ras
+results/E__er_n500_k5_4__once	mats/er_n500_k5_4.mtx once 1000 60 42 results/E__er_n500_k5_4__once
+results/E__er_n500_k5_4__light	mats/er_n500_k5_4.mtx light 1000 60 42 results/E__er_n500_k5_4__light
+results/E__er_n500_k5_4__md	mats/er_n500_k5_4.mtx md 1000 60 42 results/E__er_n500_k5_4__md
+results/E__er_n500_k5_4__md_once	mats/er_n500_k5_4.mtx md_once 1000 60 42 results/E__er_n500_k5_4__md_once
+results/E__er_n500_k5_4__md_light	mats/er_n500_k5_4.mtx md_light 1000 60 42 results/E__er_n500_k5_4__md_light
+results/E__er_n500_k5_5__ras	mats/er_n500_k5_5.mtx ras 1000 60 42 results/E__er_n500_k5_5__ras
+results/E__er_n500_k5_5__once	mats/er_n500_k5_5.mtx once 1000 60 42 results/E__er_n500_k5_5__once
+results/E__er_n500_k5_5__light	mats/er_n500_k5_5.mtx light 1000 60 42 results/E__er_n500_k5_5__light
+results/E__er_n500_k5_5__md	mats/er_n500_k5_5.mtx md 1000 60 42 results/E__er_n500_k5_5__md
+results/E__er_n500_k5_5__md_once	mats/er_n500_k5_5.mtx md_once 1000 60 42 results/E__er_n500_k5_5__md_once
+results/E__er_n500_k5_5__md_light	mats/er_n500_k5_5.mtx md_light 1000 60 42 results/E__er_n500_k5_5__md_light
+results/E__er_n1000_k3_1__ras	mats/er_n1000_k3_1.mtx ras 1000 60 42 results/E__er_n1000_k3_1__ras
+results/E__er_n1000_k3_1__once	mats/er_n1000_k3_1.mtx once 1000 60 42 results/E__er_n1000_k3_1__once
+results/E__er_n1000_k3_1__light	mats/er_n1000_k3_1.mtx light 1000 60 42 results/E__er_n1000_k3_1__light
+results/E__er_n1000_k3_1__md	mats/er_n1000_k3_1.mtx md 1000 60 42 results/E__er_n1000_k3_1__md
+results/E__er_n1000_k3_1__md_once	mats/er_n1000_k3_1.mtx md_once 1000 60 42 results/E__er_n1000_k3_1__md_once
+results/E__er_n1000_k3_1__md_light	mats/er_n1000_k3_1.mtx md_light 1000 60 42 results/E__er_n1000_k3_1__md_light
+results/E__er_n1000_k3_2__ras	mats/er_n1000_k3_2.mtx ras 1000 60 42 results/E__er_n1000_k3_2__ras
+results/E__er_n1000_k3_2__once	mats/er_n1000_k3_2.mtx once 1000 60 42 results/E__er_n1000_k3_2__once
+results/E__er_n1000_k3_2__light	mats/er_n1000_k3_2.mtx light 1000 60 42 results/E__er_n1000_k3_2__light
+results/E__er_n1000_k3_2__md	mats/er_n1000_k3_2.mtx md 1000 60 42 results/E__er_n1000_k3_2__md
+results/E__er_n1000_k3_2__md_once	mats/er_n1000_k3_2.mtx md_once 1000 60 42 results/E__er_n1000_k3_2__md_once
+results/E__er_n1000_k3_2__md_light	mats/er_n1000_k3_2.mtx md_light 1000 60 42 results/E__er_n1000_k3_2__md_light
+results/E__er_n1000_k3_3__ras	mats/er_n1000_k3_3.mtx ras 1000 60 42 results/E__er_n1000_k3_3__ras
+results/E__er_n1000_k3_3__once	mats/er_n1000_k3_3.mtx once 1000 60 42 results/E__er_n1000_k3_3__once
+results/E__er_n1000_k3_3__light	mats/er_n1000_k3_3.mtx light 1000 60 42 results/E__er_n1000_k3_3__light
+results/E__er_n1000_k3_3__md	mats/er_n1000_k3_3.mtx md 1000 60 42 results/E__er_n1000_k3_3__md
+results/E__er_n1000_k3_3__md_once	mats/er_n1000_k3_3.mtx md_once 1000 60 42 results/E__er_n1000_k3_3__md_once
+results/E__er_n1000_k3_3__md_light	mats/er_n1000_k3_3.mtx md_light 1000 60 42 results/E__er_n1000_k3_3__md_light
+results/E__er_n1000_k3_4__ras	mats/er_n1000_k3_4.mtx ras 1000 60 42 results/E__er_n1000_k3_4__ras
+results/E__er_n1000_k3_4__once	mats/er_n1000_k3_4.mtx once 1000 60 42 results/E__er_n1000_k3_4__once
+results/E__er_n1000_k3_4__light	mats/er_n1000_k3_4.mtx light 1000 60 42 results/E__er_n1000_k3_4__light
+results/E__er_n1000_k3_4__md	mats/er_n1000_k3_4.mtx md 1000 60 42 results/E__er_n1000_k3_4__md
+results/E__er_n1000_k3_4__md_once	mats/er_n1000_k3_4.mtx md_once 1000 60 42 results/E__er_n1000_k3_4__md_once
+results/E__er_n1000_k3_4__md_light	mats/er_n1000_k3_4.mtx md_light 1000 60 42 results/E__er_n1000_k3_4__md_light
+results/E__er_n1000_k3_5__ras	mats/er_n1000_k3_5.mtx ras 1000 60 42 results/E__er_n1000_k3_5__ras
+results/E__er_n1000_k3_5__once	mats/er_n1000_k3_5.mtx once 1000 60 42 results/E__er_n1000_k3_5__once
+results/E__er_n1000_k3_5__light	mats/er_n1000_k3_5.mtx light 1000 60 42 results/E__er_n1000_k3_5__light
+results/E__er_n1000_k3_5__md	mats/er_n1000_k3_5.mtx md 1000 60 42 results/E__er_n1000_k3_5__md
+results/E__er_n1000_k3_5__md_once	mats/er_n1000_k3_5.mtx md_once 1000 60 42 results/E__er_n1000_k3_5__md_once
+results/E__er_n1000_k3_5__md_light	mats/er_n1000_k3_5.mtx md_light 1000 60 42 results/E__er_n1000_k3_5__md_light
+results/E__er_n1000_k4_1__ras	mats/er_n1000_k4_1.mtx ras 1000 60 42 results/E__er_n1000_k4_1__ras
+results/E__er_n1000_k4_1__once	mats/er_n1000_k4_1.mtx once 1000 60 42 results/E__er_n1000_k4_1__once
+results/E__er_n1000_k4_1__light	mats/er_n1000_k4_1.mtx light 1000 60 42 results/E__er_n1000_k4_1__light
+results/E__er_n1000_k4_1__md	mats/er_n1000_k4_1.mtx md 1000 60 42 results/E__er_n1000_k4_1__md
+results/E__er_n1000_k4_1__md_once	mats/er_n1000_k4_1.mtx md_once 1000 60 42 results/E__er_n1000_k4_1__md_once
+results/E__er_n1000_k4_1__md_light	mats/er_n1000_k4_1.mtx md_light 1000 60 42 results/E__er_n1000_k4_1__md_light
+results/E__er_n1000_k4_2__ras	mats/er_n1000_k4_2.mtx ras 1000 60 42 results/E__er_n1000_k4_2__ras
+results/E__er_n1000_k4_2__once	mats/er_n1000_k4_2.mtx once 1000 60 42 results/E__er_n1000_k4_2__once
+results/E__er_n1000_k4_2__light	mats/er_n1000_k4_2.mtx light 1000 60 42 results/E__er_n1000_k4_2__light
+results/E__er_n1000_k4_2__md	mats/er_n1000_k4_2.mtx md 1000 60 42 results/E__er_n1000_k4_2__md
+results/E__er_n1000_k4_2__md_once	mats/er_n1000_k4_2.mtx md_once 1000 60 42 results/E__er_n1000_k4_2__md_once
+results/E__er_n1000_k4_2__md_light	mats/er_n1000_k4_2.mtx md_light 1000 60 42 results/E__er_n1000_k4_2__md_light
+results/E__er_n1000_k4_3__ras	mats/er_n1000_k4_3.mtx ras 1000 60 42 results/E__er_n1000_k4_3__ras
+results/E__er_n1000_k4_3__once	mats/er_n1000_k4_3.mtx once 1000 60 42 results/E__er_n1000_k4_3__once
+results/E__er_n1000_k4_3__light	mats/er_n1000_k4_3.mtx light 1000 60 42 results/E__er_n1000_k4_3__light
+results/E__er_n1000_k4_3__md	mats/er_n1000_k4_3.mtx md 1000 60 42 results/E__er_n1000_k4_3__md
+results/E__er_n1000_k4_3__md_once	mats/er_n1000_k4_3.mtx md_once 1000 60 42 results/E__er_n1000_k4_3__md_once
+results/E__er_n1000_k4_3__md_light	mats/er_n1000_k4_3.mtx md_light 1000 60 42 results/E__er_n1000_k4_3__md_light
+results/E__er_n1000_k4_4__ras	mats/er_n1000_k4_4.mtx ras 1000 60 42 results/E__er_n1000_k4_4__ras
+results/E__er_n1000_k4_4__once	mats/er_n1000_k4_4.mtx once 1000 60 42 results/E__er_n1000_k4_4__once
+results/E__er_n1000_k4_4__light	mats/er_n1000_k4_4.mtx light 1000 60 42 results/E__er_n1000_k4_4__light
+results/E__er_n1000_k4_4__md	mats/er_n1000_k4_4.mtx md 1000 60 42 results/E__er_n1000_k4_4__md
+results/E__er_n1000_k4_4__md_once	mats/er_n1000_k4_4.mtx md_once 1000 60 42 results/E__er_n1000_k4_4__md_once
+results/E__er_n1000_k4_4__md_light	mats/er_n1000_k4_4.mtx md_light 1000 60 42 results/E__er_n1000_k4_4__md_light
+results/E__er_n1000_k4_5__ras	mats/er_n1000_k4_5.mtx ras 1000 60 42 results/E__er_n1000_k4_5__ras
+results/E__er_n1000_k4_5__once	mats/er_n1000_k4_5.mtx once 1000 60 42 results/E__er_n1000_k4_5__once
+results/E__er_n1000_k4_5__light	mats/er_n1000_k4_5.mtx light 1000 60 42 results/E__er_n1000_k4_5__light
+results/E__er_n1000_k4_5__md	mats/er_n1000_k4_5.mtx md 1000 60 42 results/E__er_n1000_k4_5__md
+results/E__er_n1000_k4_5__md_once	mats/er_n1000_k4_5.mtx md_once 1000 60 42 results/E__er_n1000_k4_5__md_once
+results/E__er_n1000_k4_5__md_light	mats/er_n1000_k4_5.mtx md_light 1000 60 42 results/E__er_n1000_k4_5__md_light
+results/E__er_n1000_k5_1__ras	mats/er_n1000_k5_1.mtx ras 1000 60 42 results/E__er_n1000_k5_1__ras
+results/E__er_n1000_k5_1__once	mats/er_n1000_k5_1.mtx once 1000 60 42 results/E__er_n1000_k5_1__once
+results/E__er_n1000_k5_1__light	mats/er_n1000_k5_1.mtx light 1000 60 42 results/E__er_n1000_k5_1__light
+results/E__er_n1000_k5_1__md	mats/er_n1000_k5_1.mtx md 1000 60 42 results/E__er_n1000_k5_1__md
+results/E__er_n1000_k5_1__md_once	mats/er_n1000_k5_1.mtx md_once 1000 60 42 results/E__er_n1000_k5_1__md_once
+results/E__er_n1000_k5_1__md_light	mats/er_n1000_k5_1.mtx md_light 1000 60 42 results/E__er_n1000_k5_1__md_light
+results/E__er_n1000_k5_2__ras	mats/er_n1000_k5_2.mtx ras 1000 60 42 results/E__er_n1000_k5_2__ras
+results/E__er_n1000_k5_2__once	mats/er_n1000_k5_2.mtx once 1000 60 42 results/E__er_n1000_k5_2__once
+results/E__er_n1000_k5_2__light	mats/er_n1000_k5_2.mtx light 1000 60 42 results/E__er_n1000_k5_2__light
+results/E__er_n1000_k5_2__md	mats/er_n1000_k5_2.mtx md 1000 60 42 results/E__er_n1000_k5_2__md
+results/E__er_n1000_k5_2__md_once	mats/er_n1000_k5_2.mtx md_once 1000 60 42 results/E__er_n1000_k5_2__md_once
+results/E__er_n1000_k5_2__md_light	mats/er_n1000_k5_2.mtx md_light 1000 60 42 results/E__er_n1000_k5_2__md_light
+results/E__er_n1000_k5_3__ras	mats/er_n1000_k5_3.mtx ras 1000 60 42 results/E__er_n1000_k5_3__ras
+results/E__er_n1000_k5_3__once	mats/er_n1000_k5_3.mtx once 1000 60 42 results/E__er_n1000_k5_3__once
+results/E__er_n1000_k5_3__light	mats/er_n1000_k5_3.mtx light 1000 60 42 results/E__er_n1000_k5_3__light
+results/E__er_n1000_k5_3__md	mats/er_n1000_k5_3.mtx md 1000 60 42 results/E__er_n1000_k5_3__md
+results/E__er_n1000_k5_3__md_once	mats/er_n1000_k5_3.mtx md_once 1000 60 42 results/E__er_n1000_k5_3__md_once
+results/E__er_n1000_k5_3__md_light	mats/er_n1000_k5_3.mtx md_light 1000 60 42 results/E__er_n1000_k5_3__md_light
+results/E__er_n1000_k5_4__ras	mats/er_n1000_k5_4.mtx ras 1000 60 42 results/E__er_n1000_k5_4__ras
+results/E__er_n1000_k5_4__once	mats/er_n1000_k5_4.mtx once 1000 60 42 results/E__er_n1000_k5_4__once
+results/E__er_n1000_k5_4__light	mats/er_n1000_k5_4.mtx light 1000 60 42 results/E__er_n1000_k5_4__light
+results/E__er_n1000_k5_4__md	mats/er_n1000_k5_4.mtx md 1000 60 42 results/E__er_n1000_k5_4__md
+results/E__er_n1000_k5_4__md_once	mats/er_n1000_k5_4.mtx md_once 1000 60 42 results/E__er_n1000_k5_4__md_once
+results/E__er_n1000_k5_4__md_light	mats/er_n1000_k5_4.mtx md_light 1000 60 42 results/E__er_n1000_k5_4__md_light
+results/E__er_n1000_k5_5__ras	mats/er_n1000_k5_5.mtx ras 1000 60 42 results/E__er_n1000_k5_5__ras
+results/E__er_n1000_k5_5__once	mats/er_n1000_k5_5.mtx once 1000 60 42 results/E__er_n1000_k5_5__once
+results/E__er_n1000_k5_5__light	mats/er_n1000_k5_5.mtx light 1000 60 42 results/E__er_n1000_k5_5__light
+results/E__er_n1000_k5_5__md	mats/er_n1000_k5_5.mtx md 1000 60 42 results/E__er_n1000_k5_5__md
+results/E__er_n1000_k5_5__md_once	mats/er_n1000_k5_5.mtx md_once 1000 60 42 results/E__er_n1000_k5_5__md_once
+results/E__er_n1000_k5_5__md_light	mats/er_n1000_k5_5.mtx md_light 1000 60 42 results/E__er_n1000_k5_5__md_light
+results/G__ibm32__ras	mats/ibm32.mtx ras 1000 60 42 results/G__ibm32__ras --pattern
+results/G__ibm32__once	mats/ibm32.mtx once 1000 60 42 results/G__ibm32__once --pattern
+results/G__ibm32__light	mats/ibm32.mtx light 1000 60 42 results/G__ibm32__light --pattern
+results/G__ibm32__md	mats/ibm32.mtx md 1000 60 42 results/G__ibm32__md --pattern
+results/G__ibm32__md_once	mats/ibm32.mtx md_once 1000 60 42 results/G__ibm32__md_once --pattern
+results/G__ibm32__md_light	mats/ibm32.mtx md_light 1000 60 42 results/G__ibm32__md_light --pattern
+results/G__bcspwr01__ras	mats/bcspwr01.mtx ras 1000 60 42 results/G__bcspwr01__ras --pattern
+results/G__bcspwr01__once	mats/bcspwr01.mtx once 1000 60 42 results/G__bcspwr01__once --pattern
+results/G__bcspwr01__light	mats/bcspwr01.mtx light 1000 60 42 results/G__bcspwr01__light --pattern
+results/G__bcspwr01__md	mats/bcspwr01.mtx md 1000 60 42 results/G__bcspwr01__md --pattern
+results/G__bcspwr01__md_once	mats/bcspwr01.mtx md_once 1000 60 42 results/G__bcspwr01__md_once --pattern
+results/G__bcspwr01__md_light	mats/bcspwr01.mtx md_light 1000 60 42 results/G__bcspwr01__md_light --pattern
+results/G__bcspwr02__ras	mats/bcspwr02.mtx ras 1000 60 42 results/G__bcspwr02__ras --pattern
+results/G__bcspwr02__once	mats/bcspwr02.mtx once 1000 60 42 results/G__bcspwr02__once --pattern
+results/G__bcspwr02__light	mats/bcspwr02.mtx light 1000 60 42 results/G__bcspwr02__light --pattern
+results/G__bcspwr02__md	mats/bcspwr02.mtx md 1000 60 42 results/G__bcspwr02__md --pattern
+results/G__bcspwr02__md_once	mats/bcspwr02.mtx md_once 1000 60 42 results/G__bcspwr02__md_once --pattern
+results/G__bcspwr02__md_light	mats/bcspwr02.mtx md_light 1000 60 42 results/G__bcspwr02__md_light --pattern
+results/G__curtis54__ras	mats/curtis54.mtx ras 1000 60 42 results/G__curtis54__ras --pattern
+results/G__curtis54__once	mats/curtis54.mtx once 1000 60 42 results/G__curtis54__once --pattern
+results/G__curtis54__light	mats/curtis54.mtx light 1000 60 42 results/G__curtis54__light --pattern
+results/G__curtis54__md	mats/curtis54.mtx md 1000 60 42 results/G__curtis54__md --pattern
+results/G__curtis54__md_once	mats/curtis54.mtx md_once 1000 60 42 results/G__curtis54__md_once --pattern
+results/G__curtis54__md_light	mats/curtis54.mtx md_light 1000 60 42 results/G__curtis54__md_light --pattern
+results/G__dwt_59__ras	mats/dwt_59.mtx ras 1000 60 42 results/G__dwt_59__ras --pattern
+results/G__dwt_59__once	mats/dwt_59.mtx once 1000 60 42 results/G__dwt_59__once --pattern
+results/G__dwt_59__light	mats/dwt_59.mtx light 1000 60 42 results/G__dwt_59__light --pattern
+results/G__dwt_59__md	mats/dwt_59.mtx md 1000 60 42 results/G__dwt_59__md --pattern
+results/G__dwt_59__md_once	mats/dwt_59.mtx md_once 1000 60 42 results/G__dwt_59__md_once --pattern
+results/G__dwt_59__md_light	mats/dwt_59.mtx md_light 1000 60 42 results/G__dwt_59__md_light --pattern
+results/G__chesapeake__ras	mats/chesapeake.mtx ras 1000 60 42 results/G__chesapeake__ras --pattern
+results/G__chesapeake__once	mats/chesapeake.mtx once 1000 60 42 results/G__chesapeake__once --pattern
+results/G__chesapeake__light	mats/chesapeake.mtx light 1000 60 42 results/G__chesapeake__light --pattern
+results/G__chesapeake__md	mats/chesapeake.mtx md 1000 60 42 results/G__chesapeake__md --pattern
+results/G__chesapeake__md_once	mats/chesapeake.mtx md_once 1000 60 42 results/G__chesapeake__md_once --pattern
+results/G__chesapeake__md_light	mats/chesapeake.mtx md_light 1000 60 42 results/G__chesapeake__md_light --pattern
+results/G__mycielskian6__ras	mats/mycielskian6.mtx ras 1000 60 42 results/G__mycielskian6__ras --pattern
+results/G__mycielskian6__once	mats/mycielskian6.mtx once 1000 60 42 results/G__mycielskian6__once --pattern
+results/G__mycielskian6__light	mats/mycielskian6.mtx light 1000 60 42 results/G__mycielskian6__light --pattern
+results/G__mycielskian6__md	mats/mycielskian6.mtx md 1000 60 42 results/G__mycielskian6__md --pattern
+results/G__mycielskian6__md_once	mats/mycielskian6.mtx md_once 1000 60 42 results/G__mycielskian6__md_once --pattern
+results/G__mycielskian6__md_light	mats/mycielskian6.mtx md_light 1000 60 42 results/G__mycielskian6__md_light --pattern
+results/G__polbooks__ras	mats/polbooks.mtx ras 1000 60 42 results/G__polbooks__ras --pattern
+results/G__polbooks__once	mats/polbooks.mtx once 1000 60 42 results/G__polbooks__once --pattern
+results/G__polbooks__light	mats/polbooks.mtx light 1000 60 42 results/G__polbooks__light --pattern
+results/G__polbooks__md	mats/polbooks.mtx md 1000 60 42 results/G__polbooks__md --pattern
+results/G__polbooks__md_once	mats/polbooks.mtx md_once 1000 60 42 results/G__polbooks__md_once --pattern
+results/G__polbooks__md_light	mats/polbooks.mtx md_light 1000 60 42 results/G__polbooks__md_light --pattern
+results/G__nos4__ras	mats/nos4.mtx ras 1000 60 42 results/G__nos4__ras --pattern
+results/G__nos4__once	mats/nos4.mtx once 1000 60 42 results/G__nos4__once --pattern
+results/G__nos4__light	mats/nos4.mtx light 1000 60 42 results/G__nos4__light --pattern
+results/G__nos4__md	mats/nos4.mtx md 1000 60 42 results/G__nos4__md --pattern
+results/G__nos4__md_once	mats/nos4.mtx md_once 1000 60 42 results/G__nos4__md_once --pattern
+results/G__nos4__md_light	mats/nos4.mtx md_light 1000 60 42 results/G__nos4__md_light --pattern
+results/G__olm100__ras	mats/olm100.mtx ras 1000 60 42 results/G__olm100__ras --pattern
+results/G__olm100__once	mats/olm100.mtx once 1000 60 42 results/G__olm100__once --pattern
+results/G__olm100__light	mats/olm100.mtx light 1000 60 42 results/G__olm100__light --pattern
+results/G__olm100__md	mats/olm100.mtx md 1000 60 42 results/G__olm100__md --pattern
+results/G__olm100__md_once	mats/olm100.mtx md_once 1000 60 42 results/G__olm100__md_once --pattern
+results/G__olm100__md_light	mats/olm100.mtx md_light 1000 60 42 results/G__olm100__md_light --pattern
+results/G__tub100__ras	mats/tub100.mtx ras 1000 60 42 results/G__tub100__ras --pattern
+results/G__tub100__once	mats/tub100.mtx once 1000 60 42 results/G__tub100__once --pattern
+results/G__tub100__light	mats/tub100.mtx light 1000 60 42 results/G__tub100__light --pattern
+results/G__tub100__md	mats/tub100.mtx md 1000 60 42 results/G__tub100__md --pattern
+results/G__tub100__md_once	mats/tub100.mtx md_once 1000 60 42 results/G__tub100__md_once --pattern
+results/G__tub100__md_light	mats/tub100.mtx md_light 1000 60 42 results/G__tub100__md_light --pattern
+results/G__ck104__ras	mats/ck104.mtx ras 1000 60 42 results/G__ck104__ras --pattern
+results/G__ck104__once	mats/ck104.mtx once 1000 60 42 results/G__ck104__once --pattern
+results/G__ck104__light	mats/ck104.mtx light 1000 60 42 results/G__ck104__light --pattern
+results/G__ck104__md	mats/ck104.mtx md 1000 60 42 results/G__ck104__md --pattern
+results/G__ck104__md_once	mats/ck104.mtx md_once 1000 60 42 results/G__ck104__md_once --pattern
+results/G__ck104__md_light	mats/ck104.mtx md_light 1000 60 42 results/G__ck104__md_light --pattern
+results/G__breasttissue_10NN__ras	mats/breasttissue_10NN.mtx ras 1000 60 42 results/G__breasttissue_10NN__ras --pattern
+results/G__breasttissue_10NN__once	mats/breasttissue_10NN.mtx once 1000 60 42 results/G__breasttissue_10NN__once --pattern
+results/G__breasttissue_10NN__light	mats/breasttissue_10NN.mtx light 1000 60 42 results/G__breasttissue_10NN__light --pattern
+results/G__breasttissue_10NN__md	mats/breasttissue_10NN.mtx md 1000 60 42 results/G__breasttissue_10NN__md --pattern
+results/G__breasttissue_10NN__md_once	mats/breasttissue_10NN.mtx md_once 1000 60 42 results/G__breasttissue_10NN__md_once --pattern
+results/G__breasttissue_10NN__md_light	mats/breasttissue_10NN.mtx md_light 1000 60 42 results/G__breasttissue_10NN__md_light --pattern
+results/G__pivtol__ras	mats/pivtol.mtx ras 1000 60 42 results/G__pivtol__ras --pattern
+results/G__pivtol__once	mats/pivtol.mtx once 1000 60 42 results/G__pivtol__once --pattern
+results/G__pivtol__light	mats/pivtol.mtx light 1000 60 42 results/G__pivtol__light --pattern
+results/G__pivtol__md	mats/pivtol.mtx md 1000 60 42 results/G__pivtol__md --pattern
+results/G__pivtol__md_once	mats/pivtol.mtx md_once 1000 60 42 results/G__pivtol__md_once --pattern
+results/G__pivtol__md_light	mats/pivtol.mtx md_light 1000 60 42 results/G__pivtol__md_light --pattern
+results/G__grid1__ras	mats/grid1.mtx ras 1000 60 42 results/G__grid1__ras --pattern
+results/G__grid1__once	mats/grid1.mtx once 1000 60 42 results/G__grid1__once --pattern
+results/G__grid1__light	mats/grid1.mtx light 1000 60 42 results/G__grid1__light --pattern
+results/G__grid1__md	mats/grid1.mtx md 1000 60 42 results/G__grid1__md --pattern
+results/G__grid1__md_once	mats/grid1.mtx md_once 1000 60 42 results/G__grid1__md_once --pattern
+results/G__grid1__md_light	mats/grid1.mtx md_light 1000 60 42 results/G__grid1__md_light --pattern
+results/G__can_256__ras	mats/can_256.mtx ras 1000 60 42 results/G__can_256__ras --pattern
+results/G__can_256__once	mats/can_256.mtx once 1000 60 42 results/G__can_256__once --pattern
+results/G__can_256__light	mats/can_256.mtx light 1000 60 42 results/G__can_256__light --pattern
+results/G__can_256__md	mats/can_256.mtx md 1000 60 42 results/G__can_256__md --pattern
+results/G__can_256__md_once	mats/can_256.mtx md_once 1000 60 42 results/G__can_256__md_once --pattern
+results/G__can_256__md_light	mats/can_256.mtx md_light 1000 60 42 results/G__can_256__md_light --pattern
+results/G__sphere3__ras	mats/sphere3.mtx ras 1000 60 42 results/G__sphere3__ras --pattern
+results/G__sphere3__once	mats/sphere3.mtx once 1000 60 42 results/G__sphere3__once --pattern
+results/G__sphere3__light	mats/sphere3.mtx light 1000 60 42 results/G__sphere3__light --pattern
+results/G__sphere3__md	mats/sphere3.mtx md 1000 60 42 results/G__sphere3__md --pattern
+results/G__sphere3__md_once	mats/sphere3.mtx md_once 1000 60 42 results/G__sphere3__md_once --pattern
+results/G__sphere3__md_light	mats/sphere3.mtx md_light 1000 60 42 results/G__sphere3__md_light --pattern
+results/G__dwt_503__ras	mats/dwt_503.mtx ras 1000 60 42 results/G__dwt_503__ras --pattern
+results/G__dwt_503__once	mats/dwt_503.mtx once 1000 60 42 results/G__dwt_503__once --pattern
+results/G__dwt_503__light	mats/dwt_503.mtx light 1000 60 42 results/G__dwt_503__light --pattern
+results/G__dwt_503__md	mats/dwt_503.mtx md 1000 60 42 results/G__dwt_503__md --pattern
+results/G__dwt_503__md_once	mats/dwt_503.mtx md_once 1000 60 42 results/G__dwt_503__md_once --pattern
+results/G__dwt_503__md_light	mats/dwt_503.mtx md_light 1000 60 42 results/G__dwt_503__md_light --pattern
+results/G__Trefethen_500__ras	mats/Trefethen_500.mtx ras 1000 60 42 results/G__Trefethen_500__ras --pattern
+results/G__Trefethen_500__once	mats/Trefethen_500.mtx once 1000 60 42 results/G__Trefethen_500__once --pattern
+results/G__Trefethen_500__light	mats/Trefethen_500.mtx light 1000 60 42 results/G__Trefethen_500__light --pattern
+results/G__Trefethen_500__md	mats/Trefethen_500.mtx md 1000 60 42 results/G__Trefethen_500__md --pattern
+results/G__Trefethen_500__md_once	mats/Trefethen_500.mtx md_once 1000 60 42 results/G__Trefethen_500__md_once --pattern
+results/G__Trefethen_500__md_light	mats/Trefethen_500.mtx md_light 1000 60 42 results/G__Trefethen_500__md_light --pattern
+results/G__olm500__ras	mats/olm500.mtx ras 1000 60 42 results/G__olm500__ras --pattern
+results/G__olm500__once	mats/olm500.mtx once 1000 60 42 results/G__olm500__once --pattern
+results/G__olm500__light	mats/olm500.mtx light 1000 60 42 results/G__olm500__light --pattern
+results/G__olm500__md	mats/olm500.mtx md 1000 60 42 results/G__olm500__md --pattern
+results/G__olm500__md_once	mats/olm500.mtx md_once 1000 60 42 results/G__olm500__md_once --pattern
+results/G__olm500__md_light	mats/olm500.mtx md_light 1000 60 42 results/G__olm500__md_light --pattern
+results/G__tomography__ras	mats/tomography.mtx ras 1000 60 42 results/G__tomography__ras --pattern
+results/G__tomography__once	mats/tomography.mtx once 1000 60 42 results/G__tomography__once --pattern
+results/G__tomography__light	mats/tomography.mtx light 1000 60 42 results/G__tomography__light --pattern
+results/G__tomography__md	mats/tomography.mtx md 1000 60 42 results/G__tomography__md --pattern
+results/G__tomography__md_once	mats/tomography.mtx md_once 1000 60 42 results/G__tomography__md_once --pattern
+results/G__tomography__md_light	mats/tomography.mtx md_light 1000 60 42 results/G__tomography__md_light --pattern
+results/G__nos3__ras	mats/nos3.mtx ras 1000 60 42 results/G__nos3__ras --pattern
+results/G__nos3__once	mats/nos3.mtx once 1000 60 42 results/G__nos3__once --pattern
+results/G__nos3__light	mats/nos3.mtx light 1000 60 42 results/G__nos3__light --pattern
+results/G__nos3__md	mats/nos3.mtx md 1000 60 42 results/G__nos3__md --pattern
+results/G__nos3__md_once	mats/nos3.mtx md_once 1000 60 42 results/G__nos3__md_once --pattern
+results/G__nos3__md_light	mats/nos3.mtx md_light 1000 60 42 results/G__nos3__md_light --pattern
+results/G__nos5__ras	mats/nos5.mtx ras 1000 60 42 results/G__nos5__ras --pattern
+results/G__nos5__once	mats/nos5.mtx once 1000 60 42 results/G__nos5__once --pattern
+results/G__nos5__light	mats/nos5.mtx light 1000 60 42 results/G__nos5__light --pattern
+results/G__nos5__md	mats/nos5.mtx md 1000 60 42 results/G__nos5__md --pattern
+results/G__nos5__md_once	mats/nos5.mtx md_once 1000 60 42 results/G__nos5__md_once --pattern
+results/G__nos5__md_light	mats/nos5.mtx md_light 1000 60 42 results/G__nos5__md_light --pattern
+results/G__nos6__ras	mats/nos6.mtx ras 1000 60 42 results/G__nos6__ras --pattern
+results/G__nos6__once	mats/nos6.mtx once 1000 60 42 results/G__nos6__once --pattern
+results/G__nos6__light	mats/nos6.mtx light 1000 60 42 results/G__nos6__light --pattern
+results/G__nos6__md	mats/nos6.mtx md 1000 60 42 results/G__nos6__md --pattern
+results/G__nos6__md_once	mats/nos6.mtx md_once 1000 60 42 results/G__nos6__md_once --pattern
+results/G__nos6__md_light	mats/nos6.mtx md_light 1000 60 42 results/G__nos6__md_light --pattern
+results/G__nos7__ras	mats/nos7.mtx ras 1000 60 42 results/G__nos7__ras --pattern
+results/G__nos7__once	mats/nos7.mtx once 1000 60 42 results/G__nos7__once --pattern
+results/G__nos7__light	mats/nos7.mtx light 1000 60 42 results/G__nos7__light --pattern
+results/G__nos7__md	mats/nos7.mtx md 1000 60 42 results/G__nos7__md --pattern
+results/G__nos7__md_once	mats/nos7.mtx md_once 1000 60 42 results/G__nos7__md_once --pattern
+results/G__nos7__md_light	mats/nos7.mtx md_light 1000 60 42 results/G__nos7__md_light --pattern
+results/G__gr_30_30__ras	mats/gr_30_30.mtx ras 1000 60 42 results/G__gr_30_30__ras --pattern
+results/G__gr_30_30__once	mats/gr_30_30.mtx once 1000 60 42 results/G__gr_30_30__once --pattern
+results/G__gr_30_30__light	mats/gr_30_30.mtx light 1000 60 42 results/G__gr_30_30__light --pattern
+results/G__gr_30_30__md	mats/gr_30_30.mtx md 1000 60 42 results/G__gr_30_30__md --pattern
+results/G__gr_30_30__md_once	mats/gr_30_30.mtx md_once 1000 60 42 results/G__gr_30_30__md_once --pattern
+results/G__gr_30_30__md_light	mats/gr_30_30.mtx md_light 1000 60 42 results/G__gr_30_30__md_light --pattern
+results/G__jagmesh1__ras	mats/jagmesh1.mtx ras 1000 60 42 results/G__jagmesh1__ras --pattern
+results/G__jagmesh1__once	mats/jagmesh1.mtx once 1000 60 42 results/G__jagmesh1__once --pattern
+results/G__jagmesh1__light	mats/jagmesh1.mtx light 1000 60 42 results/G__jagmesh1__light --pattern
+results/G__jagmesh1__md	mats/jagmesh1.mtx md 1000 60 42 results/G__jagmesh1__md --pattern
+results/G__jagmesh1__md_once	mats/jagmesh1.mtx md_once 1000 60 42 results/G__jagmesh1__md_once --pattern
+results/G__jagmesh1__md_light	mats/jagmesh1.mtx md_light 1000 60 42 results/G__jagmesh1__md_light --pattern
+results/G__dwt_918__ras	mats/dwt_918.mtx ras 1000 60 42 results/G__dwt_918__ras --pattern
+results/G__dwt_918__once	mats/dwt_918.mtx once 1000 60 42 results/G__dwt_918__once --pattern
+results/G__dwt_918__light	mats/dwt_918.mtx light 1000 60 42 results/G__dwt_918__light --pattern
+results/G__dwt_918__md	mats/dwt_918.mtx md 1000 60 42 results/G__dwt_918__md --pattern
+results/G__dwt_918__md_once	mats/dwt_918.mtx md_once 1000 60 42 results/G__dwt_918__md_once --pattern
+results/G__dwt_918__md_light	mats/dwt_918.mtx md_light 1000 60 42 results/G__dwt_918__md_light --pattern
+results/G__dwt_992__ras	mats/dwt_992.mtx ras 1000 60 42 results/G__dwt_992__ras --pattern
+results/G__dwt_992__once	mats/dwt_992.mtx once 1000 60 42 results/G__dwt_992__once --pattern
+results/G__dwt_992__light	mats/dwt_992.mtx light 1000 60 42 results/G__dwt_992__light --pattern
+results/G__dwt_992__md	mats/dwt_992.mtx md 1000 60 42 results/G__dwt_992__md --pattern
+results/G__dwt_992__md_once	mats/dwt_992.mtx md_once 1000 60 42 results/G__dwt_992__md_once --pattern
+results/G__dwt_992__md_light	mats/dwt_992.mtx md_light 1000 60 42 results/G__dwt_992__md_light --pattern
+results/G__lshp_577__ras	mats/lshp_577.mtx ras 1000 60 42 results/G__lshp_577__ras --pattern
+results/G__lshp_577__once	mats/lshp_577.mtx once 1000 60 42 results/G__lshp_577__once --pattern
+results/G__lshp_577__light	mats/lshp_577.mtx light 1000 60 42 results/G__lshp_577__light --pattern
+results/G__lshp_577__md	mats/lshp_577.mtx md 1000 60 42 results/G__lshp_577__md --pattern
+results/G__lshp_577__md_once	mats/lshp_577.mtx md_once 1000 60 42 results/G__lshp_577__md_once --pattern
+results/G__lshp_577__md_light	mats/lshp_577.mtx md_light 1000 60 42 results/G__lshp_577__md_light --pattern
+results/G__lshp_778__ras	mats/lshp_778.mtx ras 1000 60 42 results/G__lshp_778__ras --pattern
+results/G__lshp_778__once	mats/lshp_778.mtx once 1000 60 42 results/G__lshp_778__once --pattern
+results/G__lshp_778__light	mats/lshp_778.mtx light 1000 60 42 results/G__lshp_778__light --pattern
+results/G__lshp_778__md	mats/lshp_778.mtx md 1000 60 42 results/G__lshp_778__md --pattern
+results/G__lshp_778__md_once	mats/lshp_778.mtx md_once 1000 60 42 results/G__lshp_778__md_once --pattern
+results/G__lshp_778__md_light	mats/lshp_778.mtx md_light 1000 60 42 results/G__lshp_778__md_light --pattern
+results/G__685_bus__ras	mats/685_bus.mtx ras 1000 60 42 results/G__685_bus__ras --pattern
+results/G__685_bus__once	mats/685_bus.mtx once 1000 60 42 results/G__685_bus__once --pattern
+results/G__685_bus__light	mats/685_bus.mtx light 1000 60 42 results/G__685_bus__light --pattern
+results/G__685_bus__md	mats/685_bus.mtx md 1000 60 42 results/G__685_bus__md --pattern
+results/G__685_bus__md_once	mats/685_bus.mtx md_once 1000 60 42 results/G__685_bus__md_once --pattern
+results/G__685_bus__md_light	mats/685_bus.mtx md_light 1000 60 42 results/G__685_bus__md_light --pattern
+results/G__662_bus__ras	mats/662_bus.mtx ras 1000 60 42 results/G__662_bus__ras --pattern
+results/G__662_bus__once	mats/662_bus.mtx once 1000 60 42 results/G__662_bus__once --pattern
+results/G__662_bus__light	mats/662_bus.mtx light 1000 60 42 results/G__662_bus__light --pattern
+results/G__662_bus__md	mats/662_bus.mtx md 1000 60 42 results/G__662_bus__md --pattern
+results/G__662_bus__md_once	mats/662_bus.mtx md_once 1000 60 42 results/G__662_bus__md_once --pattern
+results/G__662_bus__md_light	mats/662_bus.mtx md_light 1000 60 42 results/G__662_bus__md_light --pattern
+results/C__band_n1000_k3__every	mats/band_n1000_k3.mtx every 500 150 42 results/C__band_n1000_k3__every
+results/C__band_n1000_k3__md_every	mats/band_n1000_k3.mtx md_every 500 150 42 results/C__band_n1000_k3__md_every
+results/C__block_diagonal_n1000_p0p3__every	mats/block_diagonal_n1000_p0p3.mtx every 500 150 42 results/C__block_diagonal_n1000_p0p3__every
+results/C__block_diagonal_n1000_p0p3__md_every	mats/block_diagonal_n1000_p0p3.mtx md_every 500 150 42 results/C__block_diagonal_n1000_p0p3__md_every
+results/C__generated_500_494_1__every	mats/generated_500_494_1.mtx every 500 150 42 results/C__generated_500_494_1__every
+results/C__generated_500_494_1__md_every	mats/generated_500_494_1.mtx md_every 500 150 42 results/C__generated_500_494_1__md_every
+results/C__dwt_503__every	mats/dwt_503.mtx every 500 150 42 results/C__dwt_503__every --pattern
+results/C__dwt_503__md_every	mats/dwt_503.mtx md_every 500 150 42 results/C__dwt_503__md_every --pattern
